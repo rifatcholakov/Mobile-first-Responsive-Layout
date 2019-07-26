@@ -5,7 +5,7 @@ Designing web page using mobile-first approach with a layout that adjusts to fit
 <img src="https://rifatcholakov.com/wp-content/uploads/2019/07/Mobile-first-Responsive-Layout.png" />
 
 # Preview
-<a href="https://rifatcholakov.github.io/Mobile-first-Responsive-Layout/index" target="_blank">https://rifatcholakov.github.io/Mobile-first-Responsive-Layout/index</a>
+<a href="https://rifatcholakov.github.io/Mobile-first-Responsive-Layout/index.html" target="_blank">https://rifatcholakov.github.io/Mobile-first-Responsive-Layout/index.html</a>
 
 # Fetures
 * Responsive design
